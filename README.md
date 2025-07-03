@@ -20,5 +20,5 @@ Jinny can help you choose the best outfit, give styling advice, and rate your lo
 # Demo
 ![Image](https://github.com/user-attachments/assets/88584a1a-0076-4b5e-bd7c-9e506198388d)
 
-
+#       ✨ Happy styling with Jinny! ✨
 
